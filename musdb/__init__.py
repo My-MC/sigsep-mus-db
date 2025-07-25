@@ -11,6 +11,7 @@ import musdb
 import os
 import tempfile
 
+__version__ = "0.4.3"
 
 class DB(object):
     """
